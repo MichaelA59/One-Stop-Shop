@@ -1,24 +1,11 @@
-# README
+# One Stop Shop
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a boilerplate template for Barber Shops and Hair Salons
 
-Things you may want to cover:
+## Main Features
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Easily see all available Barbers / Stylists
+* Book Appointments with your choice of Barber / Stylist
+* Recieve Text Alerts for Confirmed Bookings
+* Google API for navigation
+* Mobile First Responsive Design
